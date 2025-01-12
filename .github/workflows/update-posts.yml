@@ -1,0 +1,27 @@
+name: Update posts
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ vars.NODE_VERSION }}
+      - uses: pnpm/action-setup@v3
+        with:
+          version: ${{ vars.PNPM_VERSION }}
+      - run: pnpm install
+      - name: Update README
+        run: pnpm update-posts
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update blog posts'
+          commit_user_name: 'Phil Parsons'
+          commit_user_email: 'p-m-p@users.noreply.github.com'
