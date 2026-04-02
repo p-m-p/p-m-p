@@ -7,7 +7,7 @@ async function getPosts(url, count = 3) {
   if (response.ok) {
     const data = await response.text()
     const parser = new XMLParser({
-      processEntities: { maxTotalExpansions: 2000 },
+      processEntities: { maxTotalExpansions: 50000 },
     })
     const { feed } = parser.parse(data)
 
