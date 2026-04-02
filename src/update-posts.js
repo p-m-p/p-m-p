@@ -6,7 +6,9 @@ async function getPosts(url, count = 3) {
 
   if (response.ok) {
     const data = await response.text()
-    const parser = new XMLParser()
+    const parser = new XMLParser({
+      processEntities: { maxTotalExpansions: 2000 },
+    })
     const { feed } = parser.parse(data)
 
     return feed.entry.slice(0, count)
