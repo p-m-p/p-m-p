@@ -14,6 +14,4 @@ Hey 👋🏻, I'm a web developer from London 🇬🇧
 
 ### PONG _Turbo_
 
-<p align="center"><a href="https://philparsons.co.uk/Pong-Turbo"><img src="pong-turbo.gif" alt="PONG Turbo gameplay" /></a></p>
-
 A browser-based arcade game mashing Pong, Space Invaders and Ball Blast into one — bounce the ball to destroy ghosts, collect power-ups, and survive bonus alien rounds. **[Play it here →](https://philparsons.co.uk/Pong-Turbo)**
