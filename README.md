@@ -10,6 +10,8 @@ Hey 👋🏻, I'm a web developer from London 🇬🇧
 [**Bundling design tokens for Lit web components**](https://philparsons.co.uk/blog/bundling-lit-design-tokens/)<br>21 September 2025
 <!-- /blog posts -->
 
+[All posts →](https://philparsons.co.uk/blog/)
+
 ## PONG _Turbo_
 
 A browser-based arcade game mashing Pong, Space Invaders and Ball Blast into one — bounce the ball to destroy ghosts, collect power-ups, and survive bonus alien rounds. **[Play it here →](https://philparsons.co.uk/Pong-Turbo)**
