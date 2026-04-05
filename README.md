@@ -1,4 +1,4 @@
-Hey 👋🏻, I'm a web developer from London 🇬🇧
+Hey 👋🏻, I'm Phil — a Principal Engineer from London 🇬🇧 specialising in front-end architecture, design systems, and web components.
 
 ## Recent blog posts
 
