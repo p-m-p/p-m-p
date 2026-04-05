@@ -10,7 +10,7 @@ Hey 👋🏻, I'm a web developer from London 🇬🇧
 [**Bundling design tokens for Lit web components**](https://philparsons.co.uk/blog/bundling-lit-design-tokens/)<br>21 September 2025
 <!-- /blog posts -->
 
-[All posts →](https://philparsons.co.uk/blog/)
+Read [all my posts](https://philparsons.co.uk/blog/) on my blog.
 
 ## PONG _Turbo_
 
