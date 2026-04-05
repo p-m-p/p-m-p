@@ -27,7 +27,7 @@ function postDate(date) {
 }
 
 const posts = (await getPosts('https://philparsons.co.uk/feed/feed.xml'))
-  .map((post) => `[**${post.title}**](${post.id})<br>${postDate(post.updated)}`)
+  .map((post) => `[**${post.title}**](${post.id})<br><sub>${postDate(post.updated)}</sub>`)
   .join('\n\n')
 
 writeFileSync(
