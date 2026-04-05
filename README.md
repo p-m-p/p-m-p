@@ -3,14 +3,16 @@ Hey 👋🏻, I'm a web developer from London 🇬🇧
 ## Recent blog posts
 
 <!-- blog posts -->
-[**Isolating React component updates with useSyncExternalStore**](https://philparsons.co.uk/blog/isolating-react-component-updates-with-usesyncexternalstore/)<br>1 March 2026
+[**Isolating React component updates with useSyncExternalStore**](https://philparsons.co.uk/blog/isolating-react-component-updates-with-usesyncexternalstore/)<br><sub>1 March 2026</sub>
 
-[**Optimising WebSocket connections with a SharedWorker**](https://philparsons.co.uk/blog/shared-worker-websocket-connections/)<br>14 November 2025
+[**Optimising WebSocket connections with a SharedWorker**](https://philparsons.co.uk/blog/shared-worker-websocket-connections/)<br><sub>14 November 2025</sub>
 
-[**Bundling design tokens for Lit web components**](https://philparsons.co.uk/blog/bundling-lit-design-tokens/)<br>21 September 2025
+[**Bundling design tokens for Lit web components**](https://philparsons.co.uk/blog/bundling-lit-design-tokens/)<br><sub>21 September 2025</sub>
 <!-- /blog posts -->
 
 Read [all my posts](https://philparsons.co.uk/blog/) on my blog.
+
+---
 
 ## PONG _Turbo_
 
