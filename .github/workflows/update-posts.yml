@@ -13,7 +13,7 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: ${{ vars.NODE_VERSION }}
-      - uses: pnpm/action-setup@v5
+      - uses: pnpm/action-setup@v6
         with:
           version: ${{ vars.PNPM_VERSION }}
       - run: pnpm install
