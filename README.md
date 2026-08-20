@@ -3,11 +3,7 @@ Hey 👋🏻, I'm Phil — a Principal Engineer from London 🇬🇧 specialisin
 ## Recent blog posts
 
 <!-- blog posts -->
-[**Isolating React component updates with useSyncExternalStore**](https://philparsons.co.uk/blog/isolating-react-component-updates-with-usesyncexternalstore/)<br><sub>1 March 2026</sub>
 
-[**Optimising WebSocket connections with a SharedWorker**](https://philparsons.co.uk/blog/shared-worker-websocket-connections/)<br><sub>14 November 2025</sub>
-
-[**Bundling design tokens for Lit web components**](https://philparsons.co.uk/blog/bundling-lit-design-tokens/)<br><sub>21 September 2025</sub>
 <!-- /blog posts -->
 
 Read [all my posts](https://philparsons.co.uk/blog/) on my blog.
